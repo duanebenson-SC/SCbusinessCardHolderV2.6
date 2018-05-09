@@ -17,7 +17,7 @@ Operation:
 3. With power on, hold the device so the ruler on on a flat surface. As you tilt it side to side, the LEDs will act as a bubble level
 
 4. With power off, if you hold both buttons and then turn power on, all the LEDs will light up. Pressing User 2 will switch to normal mode
-  4a. Press and hold User 1 and power on will light up all green LEDs
-  4b. Press and hold User 2 and power on will light up all red LEDs
+4a. Press and hold User 1 and power on will light up all green LEDs
+4b. Press and hold User 2 and power on will light up all red LEDs
 
 5. With power on, pressing the User buttons will run a quick flashing patterm - unique for each button
